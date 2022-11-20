@@ -1,0 +1,14 @@
+kiwisolver
+lightgbm
+MarkupSafe
+matplotlib
+numpy
+opencv-contrib-python
+pandas
+Pillow
+scikit-learn
+seaborn
+statsmodels
+streamlit
+streamlit-option-menu
+
